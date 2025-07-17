@@ -17,7 +17,7 @@ export default function Landing() {
         <div className="relative max-w-7xl mx-auto px-6 h-full flex items-center">
           <div className="text-white">
             <h1 className="text-5xl md:text-6xl font-extrabold mb-6 leading-tight">
-              Welcome to Our Website
+              Welcome to Our Website Shopify
             </h1>
             <p className="text-lg md:text-xl mb-8 max-w-2xl text-gray-200">
               Discover a world of amazing products at unbeatable prices. Your
